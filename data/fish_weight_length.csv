@@ -1,0 +1,367 @@
+Family,Taxonomy,Length_code,Cite_bm_conversion,Taxon_resolution,a,b,Totlen2forklen,Cite_length_conversion,Note_length_conversion
+Acanthuridae,Acanthurus achilles,FL,Kulbicki,Genus,0.028,2.983,0.925,Fishbase,
+Acanthuridae,Acanthurus blochii,FL,Kulbicki,Species,0.025,3.032,0.921,Fishbase,
+Acanthuridae,Acanthurus guttatus,FL,Kulbicki,Genus,0.028,2.983,0.98,Fishbase,
+Acanthuridae,Acanthurus lineatus,FL,Kulbicki,Genus,0.028,2.983,0.812,Fishbase,
+Acanthuridae,Acanthurus mata,FL,Kulbicki,Species,0.022,3.008,0.909,Genus Average,na
+Acanthuridae,Acanthurus nigricans,FL,Kulbicki,Genus,0.028,2.983,0.984,Fishbase,
+Acanthuridae,Acanthurus nigricauda,FL,Kulbicki,Species,0.017,3.168,0.818,Fishbase,
+Acanthuridae,Acanthurus nigrofuscus,FL,Kulbicki,Species,0.026,3.028,0.883,Fishbase,
+Acanthuridae,Acanthurus nigroris,FL,Kulbicki,Genus,0.028,2.983,0.912,Fishbase,
+Acanthuridae,Acanthurus olivaceus,FL,Kulbicki,Genus,0.028,2.983,0.893,Fishbase,
+Acanthuridae,Acanthurus pyroferus,FL,Kulbicki,Genus,0.028,2.983,0.929,Fishbase,
+Acanthuridae,Acanthurus thompsoni,FL,Kulbicki,Genus,0.028,2.983,0.88,Fishbase,
+Acanthuridae,Acanthurus triostegus,FL,Kulbicki,Species,0.083,2.57,0.975,Fishbase,
+Acanthuridae,Ctenochaetus binotatus,FL,Kulbicki,Species,0.039,2.875,0.95,Fishbase,
+Acanthuridae,Ctenochaetus flavicauda,FL,Kulbicki,Genus,0.024,3.056,0.939,Fishbase,
+Acanthuridae,Ctenochaetus marginatus,FL,Kulbicki,Species,,,1.105,Fishbase,na
+Acanthuridae,Ctenochaetus striatus,FL,Kulbicki,Species,0.023,3.063,0.878,Fishbase,
+Acanthuridae,Naso annulatus,FL,Kulbicki,Species,0.051,2.715,1,Photograph,Variable but close to 1
+Acanthuridae,Naso brachycentron,FL,Kulbicki,Genus,0.009,3.25,0.856,Fishbase,
+Acanthuridae,Naso brevirostris,FL,Kulbicki,Species,0.011,3.243,1,Fishbase,
+Acanthuridae,Naso hexacanthus,FL,Kulbicki,Species,0.02,2.956,0.947,Fishbase,
+Acanthuridae,Naso lituratus,FL,Kulbicki,Genus,0.009,3.25,0.838,Fishbase,
+Acanthuridae,Naso sp.,FL,Kulbicki,Genus,0.009,3.25,0.928,Genus Average,
+Acanthuridae,Naso sp. 1,FL,Kulbicki,Genus,0.009,3.25,0.928,Genus Average,
+Acanthuridae,Naso unicornis,FL,Kulbicki,Species,0.018,3.035,0.904,Fishbase,
+Acanthuridae,Naso vlamingii,FL,Kulbicki,Genus,0.009,3.25,0.92,Fishbase,
+Acanthuridae,Zebrasoma flavescens,FL,Kulbicki,Genus,0.038,2.857,1,Fishbase,
+Acanthuridae,Zebrasoma scopas,FL,Kulbicki,Species,0.029,2.993,1,Fishbase,
+Acanthuridae,Zebrasoma veliferum,FL,Kulbicki,Species,0.034,2.866,1,Fishbase,
+Actinopterygii,Osteichthyes unidentified,FL,Kulbicki,Body Shape,,,1,No Info,na
+Apogonidae,Cheilodipterus macrodon,FL,Kulbicki,Species,0.005,3.433,0.944,Fishbase,
+Apogonidae,Cheilodipterus quinquelineatus,FL,Kulbicki,Species,0.016,2.999,0.913,Fishbase,
+Apogonidae,Nectamia fusca,FL,Kulbicki,Species,0.041,2.699,0.948,Genus Average,
+Apogonidae,Ostorhinchus angustatus,FL,Kulbicki,Species,0.005,3.78,0.949,Fishbase,
+Apogonidae,Ostorhinchus nigrofasciatus,FL,Kulbicki,Species,0.009,3.51,0.931,Fishbase,
+Apogonidae,Pristiapogon exostigma,FL,Kulbicki,Species,0.017,2.991,0.95,Fishbase,
+Apogonidae,Pristiapogon fraenatus,FL,Kulbicki,Species,0.013,3.165,0.962,Fishbase,
+Apogonidae,Pristiapogon kallopterus,FL,Kulbicki,Species,0.01,3.314,0.917,Fishbase,
+Aulostomidae,Aulostomus chinensis,FL,Kulbicki,Species,0,3.514,1,Fishbase,
+Balistidae,Balistapus undulatus,FL,Kulbicki,Family,0.006,3.393,1,Fishbase,
+Balistidae,Balistoides viridescens,FL,Kulbicki,Species,0.024,3.018,1,Fishbase,
+Balistidae,Canthidermis maculatus,FL,Kulbicki,Family,0.006,3.393,1,Fishbase,na
+Balistidae,Melichthys niger,FL,Kulbicki,Family,0.006,3.393,1,Fishbase,
+Balistidae,Melichthys vidua,FL,Kulbicki,Family,0.006,3.393,1,Fishbase,
+Balistidae,Odonus niger,FL,Kulbicki,Family,0.006,3.393,0.924,Fishbase,
+Balistidae,Pseudobalistes flavimarginatus,FL,Kulbicki,Congener,0.073,2.76,0.945,Fishbase,
+Balistidae,Pseudobalistes fuscus,FL,Kulbicki,Species,0.073,2.76,1,Fishbase,na
+Balistidae,Rhinecanthus aculeatus,TL,FishBase,Species,0.052,2.641,,na,na
+Balistidae,Rhinecanthus lunula,FL,Kulbicki,Family,0.006,3.393,1,Fishbase,
+Balistidae,Rhinecanthus rectangulus,FL,Kulbicki,Family,0.006,3.393,1,Fishbase,
+Balistidae,Sufflamen bursa,FL,Kulbicki,Genus,0.032,2.929,1,Fishbase,
+Beryciformes,Holocentridae unidentified 1,FL,Kulbicki,Family,0.022,3.059,0.904,Family Average,
+Blenniidae,Aspidontus dussumieri,FL,Kulbicki,Family,0.002,3.901,1,Fishbase,
+Blenniidae,Aspidontus taeniatus,FL,Kulbicki,Family,0.002,3.901,1,Photograph,
+Blenniidae,Atrosalarias fuscus,FL,Kulbicki,Species,0.015,3.018,1,Fishbase,
+Blenniidae,Cirripectes sp.,FL,Kulbicki,Genus,0.013,3.15,1,Fishbase,na
+Blenniidae,Cirripectes variolosus,FL,Kulbicki,Genus,0.013,3.15,1,Fishbase,
+Blenniidae,Cirripectes variolosus (cf),FL,Kulbicki,Genus,0.013,3.15,1,Fishbase,
+Blenniidae,Exallias brevis,FL,Kulbicki,Family,0.002,3.901,1,Fishbase,
+Blenniidae,Plagiotremus rhinorhynchos,FL,Kulbicki,Species,0.002,3.549,1.053,Fishbase,na
+Blenniidae,Plagiotremus tapeinosoma,FL,Kulbicki,Species,0.006,2.908,0.974,Fishbase,
+Bothidae,Bothus mancus,FL,Kulbicki,Congener,0.002,3.751,1,Photograph,
+Callionymidae,Synchiropus ocellatus,FL,Kulbicki,Congener,0.011,3.341,1,Fishbase,
+Caracanthidae,Caracanthus maculatus,FL,Kulbicki,Conorder,0.025,2.908,1,Photograph,Odd shape so Used weight length relationship for family Scorpaenidae which is in the same order and has a similar shape
+Caracanthidae,Caracanthus unipinna,FL,Kulbicki,Conorder,0.025,2.908,1,Photograph,Odd shape; used weight length relationship for family Scorpaenidae which is in the same order and has a similar shape
+Carangidae,Carangoides ferdau,FL,Kulbicki,Species,0.037,2.851,0.833,Fishbase,na
+Carangidae,Carangoides orthogrammus,FL,Kulbicki,Species,0.016,3.026,1.113,Fishbase,na
+Carangidae,Caranx ignobilis,FL,Kulbicki,Species,0.016,3.059,0.877,Fishbase,
+Carangidae,Caranx melampygus,FL,Kulbicki,Species,0.023,2.918,0.937,Fishbase,
+Carangidae,Caranx sexfasciatus,FL,Kulbicki,Genus,0.02,2.986,0.9,Fishbase,
+Carangidae,Scomberoides lysan,FL,Kulbicki,Species,0.011,2.923,0.848,Fishbase,
+Carcharhinidae,Carcharhinus melanopterus,FL,Kulbicki,Genus,0.001,3.508,0.837,Fishbase,
+Carcharhinidae,Triaenodon obesus,TL,FishBase,Species,0.002,3.382,,na,na
+Chaetodontidae,Chaetodon auriga,FL,Kulbicki,Species,0.04,2.829,1,Fishbase,
+Chaetodontidae,Chaetodon bennetti,FL,Kulbicki,Species,0.038,2.885,1,Fishbase,
+Chaetodontidae,Chaetodon citrinellus,FL,Kulbicki,Species,0.035,2.834,1,Fishbase,
+Chaetodontidae,Chaetodon ephippium,FL,Kulbicki,Species,0.022,3.061,1,Fishbase,
+Chaetodontidae,Chaetodon lunula,FL,Kulbicki,Genus,0.045,2.814,1,Fishbase,
+Chaetodontidae,Chaetodon lunulatus,FL,Kulbicki,Genus,0.045,2.814,1,Fishbase,
+Chaetodontidae,Chaetodon mertensii,FL,Kulbicki,Species,0.004,3.793,1,Fishbase,
+Chaetodontidae,Chaetodon ornatissimus,FL,Kulbicki,Genus,0.045,2.814,1,Fishbase,
+Chaetodontidae,Chaetodon pelewensis,FL,Kulbicki,Species,0.015,3.297,1,Fishbase,
+Chaetodontidae,Chaetodon quadrimaculatus,FL,Kulbicki,Genus,0.045,2.814,1,Fishbase,
+Chaetodontidae,Chaetodon reticulatus,FL,Kulbicki,Genus,0.045,2.814,1,Fishbase,
+Chaetodontidae,Chaetodon trichrous,FL,Kulbicki,Genus,0.045,2.814,1,Fishbase,
+Chaetodontidae,Chaetodon trifascialis,FL,Kulbicki,Species,0.026,2.969,1,Fishbase,
+Chaetodontidae,Chaetodon ulietensis,FL,Kulbicki,Species,0.031,2.874,1,Fishbase,
+Chaetodontidae,Chaetodon unimaculatus,FL,Kulbicki,Species,0.053,2.833,1,Fishbase,
+Chaetodontidae,Chaetodon vagabundus,FL,Kulbicki,Species,0.028,2.973,1,Fishbase,
+Chaetodontidae,Forcipiger flavissimus,FL,Kulbicki,Family,0.042,2.847,1,Fishbase,
+Chaetodontidae,Forcipiger longirostris,FL,Kulbicki,Family,0.042,2.847,1,Fishbase,
+Chaetodontidae,Hemitaurichthys polylepis,FL,Kulbicki,Family,0.042,2.847,1,Fishbase,
+Chaetodontidae,Heniochus chrysostomus,FL,Kulbicki,Species,0.016,3.262,1,Fishbase,
+Chanidae,Chanos chanos,FL,Kulbicki,Species,0.005,3.389,0.838,Fishbase,
+Cirrhitidae,Cirrhitichthys oxycephalus,TL,FishBase,Species,0.014,3.117,,na,na
+Cirrhitidae,Neocirrhites armatus,FL,Kulbicki,Family,0.009,3.268,1,Fishbase,
+Cirrhitidae,Paracirrhites arcatus,FL,Kulbicki,Family,0.009,3.268,1,Fishbase,
+Cirrhitidae,Paracirrhites forsteri,FL,Kulbicki,Family,0.009,3.268,1,Fishbase,
+Cirrhitidae,Paracirrhites hemistictus,FL,Kulbicki,Family,0.009,3.268,1,Photograph,
+Craniata,No fish observed,TL,Brooks,Species,0,0,1,na,No fish observed so zero biomass
+Diodontidae,Diodon hystrix,FL,Kulbicki,Species,0.193,2.472,1,Fishbase,
+Echeneidae,Echeneis naucrates,FL,Kulbicki,Species,0.001,3.358,1,Fishbase,
+Ephippidae,Platax orbicularis,FL,Kulbicki,Genus,0.044,2.951,1,Photograph,Variable but close to 1
+Exocoetidae,Cheilopogon simus,FL,Kulbicki,Body Shape,0.006,3.006,0.842,Congener,Used group 15 from Kulbicki based on measurements taken from a drawing of Cheilopogon furcatus None of the groups seemed like a good fit
+Fistulariidae,Fistularia commersonii,FL,Kulbicki,Genus,0.001,3.048,1,Fishbase,
+Gobiidae,Amblyeleotris fasciata,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Amblygobius nocturnus,FL,Kulbicki,Congener,0.018,2.834,1,Fishbase,
+Gobiidae,Amblygobius phalaena,FL,Kulbicki,Species,0.018,2.834,1,Fishbase,na
+Gobiidae,Asterropteryx ensifera,FL,Kulbicki,Family,0.026,2.623,1,Photograph,
+Gobiidae,Asterropteryx semipunctata,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Asterropteryx striata,FL,Kulbicki,Family,0.026,2.623,1,Photograph,
+Gobiidae,Bryaninops sp.,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Bryaninops tigris,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Ctenogobiops feroculus,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Eviota (cf) sp.,FL,Kulbicki,Family,0.026,2.623,1,Genus Average,
+Gobiidae,Fusigobius neophytus,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Gnatholepis anjerensis,FL,Kulbicki,Genus,0.018,2.827,1,Fishbase,
+Gobiidae,Gobiodon quinquestrigatus (cf),FL,Kulbicki,Congener,0.058,2.439,1,Photograph,
+Gobiidae,Gobiodon sp.,FL,Kulbicki,Congener,0.058,2.439,1,Congener,
+Gobiidae,Paragobiodon echinocephalus,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Paragobiodon lacunicolus,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Paragobiodon modestus,FL,Kulbicki,Family,0.026,2.623,1,Fishbase,
+Gobiidae,Valenciennea strigata,FL,Kulbicki,Genus,0.01,2.859,1,Fishbase,
+Hemiramphidae,Hyporhamphus affinis,FL,FishBase,Species,0.001,3.575,0.96,Fishbase,
+Hemiramphidae,Hyporhamphus sp.,FL,Kulbicki,Congener,0.001,3.575,0.96,Congener,
+Holocentridae,Myripristis amaena,FL,Kulbicki,Species,0.016,3.261,0.862,Photograph,
+Holocentridae,Myripristis berndti,FL,Kulbicki,Species,0.028,3.003,0.887,Photograph,
+Holocentridae,Myripristis kuntee,FL,Kulbicki,Species,0.01,3.468,0.871,Photograph,
+Holocentridae,Myripristis murdjan,FL,Kulbicki,Genus,0.028,3.03,0.89,Photograph,
+Holocentridae,Myripristis violacea,FL,Kulbicki,Species,0.036,2.94,0.887,Photograph,
+Holocentridae,Neoniphon argenteus,FL,Kulbicki,Genus,0.029,2.867,0.923,Photograph,
+Holocentridae,Neoniphon opercularis,FL,Kulbicki,Genus,0.029,2.867,0.913,Photograph,
+Holocentridae,Neoniphon sammara,FL,Kulbicki,Genus,0.029,2.867,0.909,Photograph,
+Holocentridae,Sargocentron caudimaculatum,FL,Kulbicki,Genus,0.022,3.047,0.914,Fishbase,
+Holocentridae,Sargocentron diadema,FL,Kulbicki,Species,0.025,2.955,0.903,Photograph,
+Holocentridae,Sargocentron microstoma,FL,Kulbicki,Genus,0.022,3.047,0.937,Photograph,
+Holocentridae,Sargocentron punctatissimum,FL,Kulbicki,Genus,0.022,3.047,0.913,Fishbase,
+Holocentridae,Sargocentron spiniferum,FL,Kulbicki,Species,0.015,3.119,0.948,Fishbase,
+Holocentridae,Sargocentron tiere,FL,Kulbicki,Genus,0.022,3.047,0.9,Photograph,
+Kyphosidae,Kyphosus sp.,FL,Kulbicki,Genus,0.013,3.151,0.934,Congener,
+Labridae,Anampses caeruleopunctatus,FL,Kulbicki,Genus,0.023,2.793,1,Fishbase,
+Labridae,Anampses melanurus,FL,Kulbicki,Genus,0.023,2.793,1,Photograph,
+Labridae,Anampses meleagrides,FL,Kulbicki,Genus,0.023,2.793,0.974,Fishbase,
+Labridae,Anampses twistii,FL,Kulbicki,Genus,0.023,2.793,1,Fishbase,
+Labridae,Bodianus axillaris,FL,Kulbicki,Genus,0.011,3.173,1,Fishbase,
+Labridae,Cheilinus chlorourus,FL,Kulbicki,Species,0.02,2.993,1,Photograph,Variable but close to 1
+Labridae,Cheilinus oxycephalus,FL,Kulbicki,Genus,0.015,3.058,1,Fishbase,
+Labridae,Cheilinus sp.,FL,Kulbicki,Genus,0.015,3.058,1,Genus Average,
+Labridae,Cheilinus trilobatus,FL,Kulbicki,Species,0.016,3.059,1,Photograph,Variable but close to 1
+Labridae,Cheilinus undulatus,FL,Kulbicki,Species,0.011,3.136,1,Fishbase,
+Labridae,Cheilio inermis,FL,Kulbicki,Species,0.004,3.082,1,Photograph,
+Labridae,Cirrhilabrus exquisitus,FL,Kulbicki,Family,0.011,3.178,0.979,Fishbase,
+Labridae,Cirrhilabrus scottorum,FL,Kulbicki,Family,0.011,3.178,1,Fishbase,
+Labridae,Coris aygula,FL,Kulbicki,Species,0.003,3.489,1,Fishbase,
+Labridae,Coris gaimard,FL,Kulbicki,Genus,0.006,3.254,1,Fishbase,
+Labridae,Epibulus insidiator,FL,Kulbicki,Species,0.016,3.081,0.956,Fishbase,
+Labridae,Gomphosus varius,FL,Kulbicki,Species,0.024,2.703,0.901,Fishbase,
+Labridae,Halichoeres claudia,FL,Kulbicki,Genus,0.016,2.987,1,Fishbase,
+Labridae,Halichoeres hortulanus,FL,Kulbicki,Genus,0.016,2.987,1,Fishbase,
+Labridae,Halichoeres margaritaceus,FL,Kulbicki,Genus,0.016,2.987,1,Fishbase,
+Labridae,Halichoeres marginatus,FL,Kulbicki,Genus,0.016,2.987,1,Fishbase,
+Labridae,Halichoeres sp.,FL,Kulbicki,Genus,0.016,2.987,1,Genus Average,
+Labridae,Halichoeres trimaculatus,FL,Kulbicki,Species,0.028,2.736,1,Fishbase,
+Labridae,Hemigymnus fasciatus,FL,Kulbicki,Congener,0.024,2.923,1,Fishbase,
+Labridae,Hologymnosus annulatus,FL,Kulbicki,Family,0.011,3.178,0.975,Fishbase,
+Labridae,Hologymnosus doliatus,FL,Kulbicki,Family,0.011,3.178,1,Fishbase,
+Labridae,Labroides bicolor,FL,Kulbicki,Congener,0.006,3.231,1,Fishbase,
+Labridae,Labroides dimidiatus,FL,Kulbicki,Species,0.006,3.231,1,Fishbase,
+Labridae,Labroides rubrolabiatus,FL,Kulbicki,Congener,0.006,3.231,1,Fishbase,
+Labridae,Macropharyngodon meleagris,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Macropharyngodon ornatus,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Novaculichthys taeniourus,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Oxycheilinus bimaculatus,TL,Kulbicki,Species,0.02,2.83,,Fishbase,na
+Labridae,Oxycheilinus lineatus,FL,Kulbicki,Family,0.011,3.178,1,Congener,
+Labridae,Oxycheilinus unifasciatus,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudocheilinus evanidus,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudocheilinus hexataenia,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudocheilinus octotaenia,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudocheilinus octotaenia (cf),FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudocheilinus tetrataenia,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudodax moluccanus,FL,Kulbicki,Family,0.011,3.178,1,Photograph,
+Labridae,Pseudojuloides atavai,FL,Kulbicki,Family,0.011,3.178,1,Photograph,Variable but close to 1
+Labridae,Pseudojuloides cerasinus,FL,Kulbicki,Family,0.011,3.178,1,Photograph,na
+Labridae,Stethojulis bandanensis,FL,Kulbicki,Species,0.03,2.581,1,Photograph,
+Labridae,Thalassoma amblycephalum,FL,Kulbicki,Genus,0.012,3.097,1,Photograph,Variable among size classes
+Labridae,Thalassoma hardwicke,FL,Kulbicki,Species,0.018,2.978,1,Photograph,Variable among size classes
+Labridae,Thalassoma lutescens,FL,Kulbicki,Species,0.013,3.042,1,Photograph,Variable among size classes
+Labridae,Thalassoma purpureum,FL,Kulbicki,Genus,0.012,3.097,1,Photograph,Variable among size classes
+Labridae,Thalassoma quinquevittatum,FL,Kulbicki,Genus,0.012,3.097,1,Photograph,Variable among size classes
+Labridae,Thalassoma trilobatum,FL,Kulbicki,Genus,0.012,3.097,1,Photograph,Variable among size classes
+Labridae,Wetmorella nigropinnata,FL,Kulbicki,Family,0.011,3.178,1,Photograph,na
+Lethrinidae,Gnathodentex aureolineatus,FL,Kulbicki,Species,0.018,3.063,0.897,Fishbase,
+Lethrinidae,Lethrinus olivaceus,FL,Kulbicki,Species,0.029,2.851,0.927,Fishbase,
+Lethrinidae,Lethrinus sp.,FL,Kulbicki,Genus,0.017,3.043,0.931,Genus Average,Avg of 2 congeners L. olivaceus and L. xanthochilus
+Lethrinidae,Lethrinus xanthochilus,FL,Kulbicki,Species,0.02,2.964,0.934,Fishbase,
+Lethrinidae,Monotaxis grandoculis,FL,Kulbicki,Species,0.023,3.022,0.886,Photograph,
+Lethrinidae,Monotaxis sp.,FL,Kulbicki,Congener,0.023,3.022,0.886,Congener,
+Lutjanidae,Aphareus furca,FL,Kulbicki,Family,0.017,3.022,0.847,Fishbase,
+Lutjanidae,Aprion virescens,FL,Kulbicki,Species,0.023,2.886,0.851,Fishbase,
+Lutjanidae,Lutjanus bohar,FL,Kulbicki,Species,0.016,3.059,0.949,Fishbase,
+Lutjanidae,Lutjanus fulvus,FL,Kulbicki,Species,0.021,2.974,0.962,Fishbase,
+Lutjanidae,Lutjanus kasmira,FL,Kulbicki,Species,0.008,3.247,0.969,Fishbase,
+Lutjanidae,Lutjanus rivulatus,FL,Kulbicki,Species,0.008,3.26,0.972,Fishbase,
+Malacanthidae,Malacanthus brevirostris,TL,Kulbicki,Species,0.005,3,,Fishbase,na
+Microdesmidae,Nemateleotris magnifica,FL,Kulbicki,Body Shape,0.019,2.917,1,Photograph,Used group 16 from Kulbicki based on measurements taken from a photograph
+Microdesmidae,Ptereleotris evides,FL,Kulbicki,Body Shape,0.019,2.917,0.944,Photograph,Used group 16 from Kulbicki based on measurements taken from a photograph
+Microdesmidae,Ptereleotris heteroptera,FL,Kulbicki,Body Shape,0.019,2.917,0.974,Photograph,
+Microdesmidae,Ptereleotris microlepis,FL,Kulbicki,Body Shape,0.019,2.917,1,Photograph,Used group 16 from Kulbicki based on measurements taken from a photograph of Ptereleotris evides
+Microdesmidae,Ptereleotris monoptera,FL,Kulbicki,Body Shape,0.019,2.917,0.827,Photograph,Used group 16 from Kulbicki based on measurements taken from a photograph of Ptereleotris evides
+Monacanthidae,Aluterus scriptus,TL,FishBase,Species,0.002,3,,na,na
+Monacanthidae,Amanses scopas,FL,Kulbicki,Confamily,0.007,3.262,1,Fishbase,
+Monacanthidae,Cantherhines dumerilii,NS,FishBase,Species,0.041,2.792,,na,na
+Monacanthidae,Cantherhines pardalis,TL,FishBase,Species,0.017,3.07,,na,na
+Monacanthidae,Cantherhines sandwichiensis,FL,Kulbicki,Confamily,0.007,3.262,1,Fishbase,
+Mullidae,Mulloidichthys flavolineatus,FL,Kulbicki,Species,0.012,3.101,0.915,Fishbase,
+Mullidae,Mulloidichthys vanicolensis,FL,Kulbicki,Congener,0.01,3.224,0.884,Fishbase,
+Mullidae,Parupeneus barberinus,FL,Kulbicki,Species,0.013,3.122,0.884,Photograph,
+Mullidae,Parupeneus ciliatus,FL,Kulbicki,Species,0.012,3.22,0.933,Fishbase,
+Mullidae,Parupeneus cyclostomus,FL,Kulbicki,Genus,0.015,3.13,0.897,Photograph,
+Mullidae,Parupeneus insularis,FL,Kulbicki,Genus,0.015,3.13,0.897,Photograph,
+Mullidae,Parupeneus multifasciatus,FL,Kulbicki,Species,0.011,3.211,0.906,Photograph,
+Mullidae,Parupeneus pleurostigma,FL,Kulbicki,Genus,0.015,3.13,0.878,Photograph,
+Muraenidae,Echidna nebulosa,FL,Kulbicki,Genus,0,3.352,1,Fishbase,
+Muraenidae,Gymnomuraena zebra,FL,Kulbicki,Family,0.005,2.614,1,Fishbase,
+Muraenidae,Gymnothorax buroensis,FL,Kulbicki,Genus,0.001,3.303,1,Fishbase,
+Muraenidae,Gymnothorax eurostus,FL,Kulbicki,Genus,0.001,3.303,1,Photograph,na
+Muraenidae,Gymnothorax fimbriatus,FL,Kulbicki,Species,0,3.324,1,Fishbase,na
+Muraenidae,Gymnothorax flavimarginatus,FL,Kulbicki,Genus,0.001,3.303,1,Fishbase,
+Muraenidae,Gymnothorax javanicus,FL,Kulbicki,Genus,0.001,3.303,1,Fishbase,
+Muraenidae,Gymnothorax meleagris,FL,Kulbicki,Genus,0.001,3.303,1,Fishbase,
+Muraenidae,Gymnothorax pictus,TL,Kulbicki,Species,0.002,3,,Fishbase,na
+Muraenidae,Gymnothorax undulatus,FL,Kulbicki,Genus,0.001,3.303,1,Fishbase,na
+Ostraciidae,Lactoria cornuta,FL,Kulbicki,Species,0.006,3.168,1,Fishbase,
+Ostraciidae,Ostracion cubicus,FL,Kulbicki,Species,0.129,2.519,1,Photograph,
+Ostraciidae,Ostracion meleagris,FL,Kulbicki,Congener,0.129,2.519,1,Fishbase,
+Perciformes,Acanthuridae unidentified,FL,Kulbicki,Family,0.03,2.946,0.926,Family Average,Average of all Acanthurids for which we have data
+Perciformes,Blenniidae unidentified,FL,Kulbicki,Family,0.002,3.901,1,No Info,Few family members have forked tails (exception: fangblennies)
+Perciformes,Blenniidae unidentified 5,FL,Kulbicki,Family,0.002,3.901,1,No Info,Few family members have forked tails (exception: fangblennies)
+Perciformes,Blenniidae unidentified 6,FL,Kulbicki,Family,0.002,3.901,1,No Info,Few family members have forked tails (exception: fangblennies)
+Perciformes,Carangidae unidentified,FL,Kulbicki,Family,0.008,3.197,0.904,Family Average,
+Perciformes,Carangidae unidentified 1,FL,Kulbicki,Family,0.008,3.197,0.904,Family Average,
+Perciformes,Gobiidae unidentified,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 1,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 12,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 2,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 3,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 4,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 5,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 6,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 7,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 8,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Gobiidae unidentified 9,FL,Kulbicki,Family,0.026,2.623,1,No Info,Few family members have forked tails
+Perciformes,Labridae unidentified,FL,Kulbicki,Family,0.011,3.178,1,No Info,
+Perciformes,Labridae unidentified 1,FL,Kulbicki,Family,0.011,3.178,1,No Info,
+Perciformes,Labridae unidentified 2,FL,Kulbicki,Family,0.011,3.178,1,No Info,
+Perciformes,Labridae unidentified 3,FL,Kulbicki,Family,0.011,3.178,1,No Info,
+Perciformes,Scaridae unidentified 1,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 2,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 3,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 4,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 5,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 6,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 7,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Perciformes,Scaridae unidentified 8,FL,Kulbicki,Family,0.022,2.971,1,No Info,
+Pinguipedidae,Parapercis millepunctata,FL,Kulbicki,Genus,0.013,2.943,1,Photograph,
+Pinguipedidae,Parapercis multiplicata,FL,Kulbicki,Genus,0.013,2.943,1,Photograph,
+Pinguipedidae,Parapercis schauinslandii,TL,Kulbicki,Species,0.011,3,,Fishbase,na
+Polynemidae,Polydactylus sexfilis,FL,Kulbicki,Confamily,0.013,3.117,0.816,Fishbase,
+Pomacanthidae,Centropyge bispinosa,FL,Kulbicki,Species,0.092,2.458,1,Fishbase,
+Pomacanthidae,Centropyge flavicauda,FL,Kulbicki,Genus,0.074,2.577,1,Fishbase,na
+Pomacanthidae,Centropyge flavissima,FL,Kulbicki,Genus,0.074,2.577,1,Fishbase,
+Pomacanthidae,Centropyge heraldi,FL,Kulbicki,Genus,0.074,2.577,1,Fishbase,
+Pomacanthidae,Centropyge loricula,FL,Kulbicki,Genus,0.074,2.577,1,Fishbase,
+Pomacanthidae,Centropyge multifasciata,FL,Kulbicki,Genus,0.074,2.577,1,Photograph,
+Pomacanthidae,Pomacanthus imperator,FL,Kulbicki,Congener,0.067,2.724,1,Photograph,
+Pomacanthidae,Pygoplites diacanthus,FL,Kulbicki,Family,0.058,2.718,1,Photograph,
+Pomacentridae,Abudefduf septemfasciatus,FL,Kulbicki,Genus,0.023,3.132,0.904,Photograph,
+Pomacentridae,Abudefduf sexfasciatus,FL,Kulbicki,Species,0.021,3.152,0.86,Fishbase,
+Pomacentridae,Abudefduf sordidus,FL,Kulbicki,Genus,0.023,3.132,0.931,Fishbase,
+Pomacentridae,Amphiprion chrysopterus,FL,Kulbicki,Genus,0.019,3.19,1,Fishbase,
+Pomacentridae,Chromis acares,FL,Kulbicki,Genus,0.023,3.175,0.861,Fishbase,
+Pomacentridae,Chromis agilis,FL,Kulbicki,Genus,0.023,3.175,0.831,Fishbase,
+Pomacentridae,Chromis atripectoralis,FL,Kulbicki,Species,0.018,3.291,0.843,Fishbase,
+Pomacentridae,Chromis iomelas,FL,Kulbicki,Species,0.015,3.383,0.786,Fishbase,
+Pomacentridae,Chromis margaritifer,FL,Kulbicki,Genus,0.023,3.175,0.755,Fishbase,
+Pomacentridae,Chromis vanderbilti,FL,Kulbicki,Genus,0.023,3.175,0.861,Fishbase,
+Pomacentridae,Chromis viridis,FL,Kulbicki,Species,0.035,2.9,0.845,Fishbase,
+Pomacentridae,Chromis xanthura,FL,Kulbicki,Genus,0.023,3.175,0.77,Fishbase,
+Pomacentridae,Chrysiptera brownriggii,FL,Kulbicki,Genus,0.026,2.926,0.977,Fishbase,
+Pomacentridae,Chrysiptera glauca,FL,Kulbicki,Genus,0.026,2.926,0.962,Fishbase,
+Pomacentridae,Dascyllus aruanus,FL,Kulbicki,Species,0.042,2.989,0.93,Fishbase,
+Pomacentridae,Dascyllus flavicaudus,FL,Kulbicki,Genus,0.046,2.911,0.924,Fishbase,
+Pomacentridae,Dascyllus trimaculatus,FL,Kulbicki,Species,0.031,3.043,0.938,Fishbase,
+Pomacentridae,Lepidozygus tapeinosoma,FL,Kulbicki,Family,0.021,3.191,0.874,Fishbase,
+Pomacentridae,Plectroglyphidodon (cf) sp.,FL,Kulbicki,Family,0.021,3.191,0.893,Genus Average,
+Pomacentridae,Plectroglyphidodon dickii,FL,Kulbicki,Family,0.021,3.191,0.889,Fishbase,
+Pomacentridae,Plectroglyphidodon flaviventris,FL,Kulbicki,Family,0.021,3.191,0.915,Photograph,
+Pomacentridae,Plectroglyphidodon johnstonianus,TL,FishBase,Species,0.061,2.635,,na,na
+Pomacentridae,Plectroglyphidodon lacrymatus,FL,Kulbicki,Family,0.021,3.191,0.874,Fishbase,
+Pomacentridae,Pomacentrus pavo,FL,Kulbicki,Species,0.025,2.972,0.827,Photograph,
+Pomacentridae,Pomachromis fuscidorsalis,FL,Kulbicki,Genus,0.028,3.024,0.873,Photograph,
+Pomacentridae,Stegastes albifasciatus,FL,Kulbicki,Genus,0.04,2.989,0.921,Fishbase,
+Pomacentridae,Stegastes fasciolatus,FL,Kulbicki,Genus,0.04,2.989,0.884,Fishbase,
+Pomacentridae,Stegastes nigricans,FL,Kulbicki,Species,0.038,3.01,0.917,Fishbase,
+Pomacentridae,Stegastes punctatus,FL,Kulbicki,Genus,0.04,2.989,0.907,Genus Average,
+Scaridae,Calotomus carolinus,NS,FishBase,Species,0.012,3.167,,na,na
+Scaridae,Cetoscarus ocellatus,FL,Kulbicki,Family,0.022,2.971,1,Photograph,Variable among size classes
+Scaridae,Chlorurus frontalis,FL,Kulbicki,Congener,0.024,2.969,0.98,Fishbase,
+Scaridae,Chlorurus microrhinos,FL,Kulbicki,Congener,0.024,2.969,0.842,Fishbase,
+Scaridae,Chlorurus sordidus,FL,Kulbicki,Species,0.024,2.969,1,Fishbase,
+Scaridae,Hipposcarus longiceps,FL,Kulbicki,Family,0.022,2.971,0.988,Fishbase,
+Scaridae,Leptoscarus vaigiensis,TL,Kulbicki,Species,0.017,2.965,,Fishbase,na
+Scaridae,Scarus altipinnis,FL,Kulbicki,Species,0.018,3.029,0.973,Fishbase,
+Scaridae,Scarus forsteni,FL,Kulbicki,Genus,0.023,2.956,0.947,Fishbase,
+Scaridae,Scarus frenatus,FL,Kulbicki,Genus,0.023,2.956,1,Photograph,Variable among size classes but close to 1
+Scaridae,Scarus ghobban,FL,Kulbicki,Species,0.017,3.041,0.915,Fishbase,
+Scaridae,Scarus globiceps,FL,Kulbicki,Genus,0.023,2.956,1,Photograph,Variable among size classes but close to 1
+Scaridae,Scarus niger,FL,Kulbicki,Species,0.013,3.16,1,Photograph,Variable among size classes but close to 1
+Scaridae,Scarus oviceps,FL,Kulbicki,Genus,0.023,2.956,1,Photograph,Variable among size classes but close to 1
+Scaridae,Scarus psittacus,FL,Kulbicki,Species,0.011,3.319,1,Photograph,Variable among size classes but close to 1
+Scaridae,Scarus rubroviolaceus,FL,Kulbicki,Genus,0.023,2.956,0.91,Fishbase,
+Scaridae,Scarus schlegeli,FL,Kulbicki,Species,0.023,2.969,1,Photograph,Variable among size classes but close to 1
+Scaridae,Scarus tricolor,FL,Kulbicki,Genus,0.023,2.956,0.98,Fishbase,
+Scorpaenidae,Pterois antennata,FL,Kulbicki,Genus,0.036,2.697,1,Fishbase,
+Scorpaenidae,Pterois radiata,FL,Kulbicki,Genus,0.036,2.697,1,Fishbase,
+Scorpaenidae,Scorpaenopsis diabolus,FL,Kulbicki,Genus,0.013,3.261,1,Photograph,
+Scorpaenidae,Scorpaenopsis papuensis,FL,Kulbicki,Genus,0.013,3.261,1,Photograph,
+Scorpaenidae,Scorpaenopsis sp.,FL,Kulbicki,Genus,0.013,3.261,1,Genus Average,na
+Scorpaenidae,Sebastapistes cyanostigma,FL,Kulbicki,Family,0.025,2.908,1,Fishbase,
+Scorpaenidae,Sebastapistes sp.,FL,Kulbicki,Family,0.025,2.908,1,Genus Average,
+Scorpaenidae,Sebastapistes strongia,FL,Kulbicki,Family,0.025,2.908,1,Fishbase,
+Scorpaenidae,Sebastapistes tinkhami,FL,Kulbicki,Family,0.025,2.908,1,Photograph,
+Scorpaenidae,Taenianotus triacanthus,FL,Kulbicki,Family,0.025,2.908,1,Fishbase,
+Scorpaeniformes,Scorpaenidae unidentified,FL,Kulbicki,Family,0.025,2.908,1,Genus Average,
+Scorpaeniformes,Sebastapistes,FL,Kulbicki,Family,0.025,2.908,1,Genus Average,
+Serranidae,Cephalopholis argus,FL,Kulbicki,Species,0.009,3.181,1,Fishbase,
+Serranidae,Cephalopholis microprion,FL,Kulbicki,Genus,0.011,3.109,1,Fishbase,
+Serranidae,Cephalopholis sexmaculata,FL,Kulbicki,Genus,0.011,3.109,1,Fishbase,
+Serranidae,Cephalopholis urodeta,FL,Kulbicki,Species,0.028,2.818,1,Fishbase,
+Serranidae,Epinephelus fasciatus,FL,Kulbicki,Species,0.014,3.041,1,Fishbase,
+Serranidae,Epinephelus hexagonatus,FL,Kulbicki,Genus,0.012,3.053,1,Fishbase,
+Serranidae,Epinephelus merra,FL,Kulbicki,Species,0.016,2.966,1,Fishbase,
+Serranidae,Grammistes sexlineatus,FL,Kulbicki,Family,0.013,3.031,1,Fishbase,
+Serranidae,Pogonoperca punctata,FL,Kulbicki,Family,0.013,3.031,1,Fishbase,
+Serranidae,Pseudanthias mooreanus,FL,Kulbicki,Congener,0.014,3.149,0.809,Fishbase,
+Serranidae,Pseudanthias olivaceus,FL,Kulbicki,Congener,0.014,3.149,0.848,Fishbase,
+Serranidae,Pseudanthias pascalus,FL,Kulbicki,Congener,0.014,3.149,0.805,Fishbase,
+Serranidae,Variola louti,FL,Kulbicki,Species,0.012,3.07,0.723,Fishbase,
+Siganidae,Siganus argenteus,FL,Kulbicki,Species,0.011,3.154,0.892,Fishbase,
+Siganidae,Siganus spinus,FL,Kulbicki,Species,0.015,3.093,1,Photograph,
+Sphyraenidae,Sphyraena barracuda,FL,Kulbicki,Species,0.006,3.011,0.886,Fishbase,na
+Sphyraenidae,Sphyraena qenie,FL,Kulbicki,Genus,0.006,3.013,0.9,Fishbase,
+Sphyraenidae,Sphyraena sp. 1,FL,Kulbicki,Genus,0.006,3.013,0.9,Congener,
+Synanceiidae,Synanceia verrucosa,FL,Kulbicki,Family,0.004,3.694,1,Fishbase,
+Syngnathidae,Corythoichthys flavofasciatus,FL,Kulbicki,Confamily,0,4.12,1,Photograph,
+Synodontidae,Saurida gracilis,FL,Kulbicki,Species,0.007,3.165,0.93,Photograph,
+Synodontidae,Synodus binotatus,FL,Kulbicki,Genus,0.009,3.078,0.952,Photograph,
+Synodontidae,Synodus variegatus,FL,Kulbicki,Species,0.003,3.484,0.947,Photograph,na
+Tetraodontidae,Arothron hispidus,FL,Kulbicki,Species,0.063,2.756,1,Fishbase,
+Tetraodontidae,Arothron meleagris,FL,Kulbicki,Genus,0.035,2.901,1,Fishbase,
+Tetraodontidae,Canthigaster bennetti,FL,Kulbicki,Genus,0.042,2.822,1,Fishbase,
+Tetraodontidae,Canthigaster solandri,FL,Kulbicki,Species,0.03,2.979,1,Fishbase,
+Tetraodontidae,Canthigaster sp. 1,FL,Kulbicki,Genus,0.042,2.822,1,Genus Average,
+Tetraodontidae,Canthigaster valentini,FL,Kulbicki,Species,0.037,2.943,1,Fishbase,
+Tetraodontiformes,Balistidae unidentified 1,FL,Kulbicki,Family,0.006,3.393,1,No Info,
+Zanclidae,Zanclus cornutus,FL,Kulbicki,Species,0.015,3.37,1,Photograph,Variable  

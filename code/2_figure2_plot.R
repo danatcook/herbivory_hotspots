@@ -34,3 +34,8 @@ ggplot(siteDat,
   theme(axis.line = element_line(size = 1)) + # axis line
   theme(axis.ticks = element_line(size = (1))) # axis tick marks
 
+# Correlation -----
+# Calculate Pearson's correlation coefficient for grazing and browsing rates
+correlation <- cor.test(siteDat$Grazing, siteDat$PercConsumed, method = "pearson")
+print(correlation)
+
