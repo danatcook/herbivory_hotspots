@@ -1,4 +1,4 @@
-# Script to generate supplemental table 2 output table of the biomass and abundance of herbivores from the 2017 fish count surveys of the 20 NS sites. Values are the total biomass (g/m2) and total abundance (# of individuals) of each species or functional group of herbivores across all 20 sites. 
+# Script to generate supplemental table 1 output table of the biomass and abundance of herbivores from the 2017 fish count surveys of the 20 NS sites. Values are the total biomass (g/m2) and total abundance (# of individuals) of each species or functional group of herbivores across all 20 sites. 
 ###################################
 
 # Packages -----
