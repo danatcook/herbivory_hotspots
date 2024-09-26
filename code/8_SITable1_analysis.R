@@ -97,14 +97,9 @@ colnames(herbivoreDat_summarized_rounded) <- c("Species", "Herbivore Group", "To
 herbivore_table <- kable(herbivoreDat_summarized_rounded, format = "html", table.attr = 'class="table table-bordered"') %>%
   kable_styling(
     bootstrap_options = c("striped", "hover", "condensed", "responsive"),
-    fixed_thead = TRUE
-  ) %>%
-  column_spec(1, width = "auto") %>%
-  column_spec(2, width = "auto") %>%
-  column_spec(3, width = "auto") %>% 
-  column_spec(4, width = "auto") %>%
-  column_spec(5, width = "auto") %>%
-  column_spec(6, width = "auto")
+    fixed_thead = TRUE,
+    full_width = FALSE # Let the table adjust its width based on content
+  )
 
 
 # Display the table in the RStudio Viewer or HTML format
@@ -114,7 +109,7 @@ print(herbivore_table)
 html_file <- "output/herbivore_table.html"
 save_kable(herbivore_table, file = html_file, path = "output")
 
-# Save the HTML table as a high-resolution PNG
+# Save the HTML table as a high-resolution tiff
 webshot(html_file, file = "output/herbivore_table.png", vwidth = 1600, vheight = 1200, cliprect = "viewport")
 
 # Save the HTML table as PDF using pagedown
